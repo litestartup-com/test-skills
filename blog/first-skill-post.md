@@ -6,7 +6,7 @@ tags: ["release", "skill"]
 status: "published"
 ---
 
-## Hello from AI Editor!
+## Hello from AI Editor! (Updated v2)
 
 This blog post was written and published directly from **Windsurf** using the LiteStartup Skill.
 
